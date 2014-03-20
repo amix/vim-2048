@@ -6,7 +6,7 @@ Installing term2048 is quite easy:
 
     $ pip install term2048
 
-Install the vim-2048 is also easy if you use something like pathogen:
+Install the vim-2048 is also easy if you use something like [vim-pathogen](https://github.com/tpope/vim-pathogen):
 
     cd ~/.vim/bundle
     git clone git://github.com/amix/vim-2048
