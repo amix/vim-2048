@@ -1,4 +1,5 @@
 Play 2048 in your Vim :)
+========================
 
 You need to install [term2048](https://github.com/bfontaine/term2048) and your Vim has to support Python.
 
