@@ -10,7 +10,7 @@ Installing vim-2048 is also easy if you use something like [vim-pathogen](https:
     cd ~/.vim/bundle
     git clone git://github.com/amix/vim-2048
 
-Afer this is done simply call Play2048 to play (from command mode):
+After this is done simply call Play2048 to play (from command mode):
 
     :Play2048
     
